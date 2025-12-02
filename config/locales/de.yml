@@ -1,0 +1,16 @@
+de:
+  redmica_ui_extension:
+    searchable_selectbox:
+      label_enable: Auswahlfeld durchsuchbar machen
+    burndown_chart:
+      label_enable: Burndown-Chart anzeigen
+      label_issues_burndown: burndown
+      label_issues_burndown_y_label: Anzahl der Tickets
+      label_ideal_line: Ideal
+      label_total_substract_closed_line: Total - Closed
+      label_open_line: Offen
+    mermaid_macro:
+      label_enable: Mermaid-Makro aktivieren, um die Mermaid-Syntax im Wiki zu verwenden
+    preview_attachment:
+      label_enable: Vorschau von Attachments aktivieren
+      preview: Vorschau
