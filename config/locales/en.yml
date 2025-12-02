@@ -13,3 +13,4 @@ en:
       label_enable: Add a mermaid macro to use the mermaid syntax in the wiki
     preview_attachment:
       label_enable: Make attachments previewable
+      preview: Preview

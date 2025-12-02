@@ -13,3 +13,4 @@ ja:
       label_enable: Wikiでmermaid記法を使うためのmermaidマクロを追加
     preview_attachment:
       label_enable: 添付ファイルをプレビュー可能にする
+      preview: プレビュー
